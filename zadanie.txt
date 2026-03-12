@@ -2,4 +2,5 @@
 text
 =======
 dodanie zdanie przez strone
->>>>>>> d1571c802aae9e28a3a2110314e43f935600cbc4
+
+jeszcze jeden text
